@@ -38,4 +38,3 @@ My Solution:
   window.addEventListener('keyup', endSound);
 ```
 
-Follow me on Twitter! [@stpColabr8nLstn](https://twitter.com/stpcolabr8nlstn)
