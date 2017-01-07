@@ -16,7 +16,7 @@ The only major deviation here is that I opted to use `keyup` rather than listeni
 
 Original Solution:  
 
-```javascript
+```javascript  
   function removeTransition(e) {
   	if (e.propertyName !== 'transform') return;
     e.target.classList.remove('playing');
@@ -28,7 +28,7 @@ Original Solution:
 
 My Solution:  
 
-```javascript
+```javascript  
   function endSound (e) {
   	const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
     if(!key) return;
