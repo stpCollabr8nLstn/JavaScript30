@@ -4,7 +4,7 @@
 
 I took the JavaScript 30 Day Challenge by [@wesbos](https://twitter.com/wesbos).  
 I encourage you to grab the course at [https://JavaScript30.com](https://JavaScript30.com).  
-Wes write some of the best tutorials whether you're just learning or looking for a refresh.
+Wes writes some of the best tutorials whether you're just learning or looking for a refresh.
 
 Since I deviated a bit from the course material, I decided to post my solutions as alternatives.  
 Each of my solutions have been added in my github with file name `index-ARIOS.html`.  
@@ -21,7 +21,7 @@ Original Solution:
 
 ```javascript  
   function removeTransition(e) {
-  if (e.propertyName !== 'transform') return;
+    if (e.propertyName !== 'transform') return;
     e.target.classList.remove('playing');
   }
 
@@ -33,7 +33,7 @@ My Solution:
 
 ```javascript  
   function endSound (e) {
-  const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
+    const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
     if(!key) return;
     key.classList.remove('playing');
   }
