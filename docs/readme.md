@@ -18,7 +18,7 @@ Original Solution:
 
 ```javascript  
   function removeTransition(e) {
-  	if (e.propertyName !== 'transform') return;
+  if (e.propertyName !== 'transform') return;
     e.target.classList.remove('playing');
   }
 
@@ -30,7 +30,7 @@ My Solution:
 
 ```javascript  
   function endSound (e) {
-  	const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
+  const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
     if(!key) return;
     key.classList.remove('playing');
   }
