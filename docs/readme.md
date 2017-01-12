@@ -51,7 +51,7 @@ However, I did add a function to calculate the degrees based on the time unit. M
 
 Original Solution:
 
-```JavaScript
+```javascript
   const secondsDegrees = ((seconds / 60) * 360) + 90;
   const minsDegrees = ((mins / 60) * 360) + ((seconds/60)*6) + 90;
   const hourDegrees = ((hour / 12) * 360) + ((mins/60)*30) + 90;
@@ -59,7 +59,7 @@ Original Solution:
 
 My Solution:
 
-```JavaScript
+```javascript
   function calcDegree (unit, totalUnits) {
     return ((unit / totalUnits) * 360) + 90
   }
