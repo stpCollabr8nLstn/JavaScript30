@@ -101,6 +101,7 @@ Original Solution:
 ```
 
 My Solution:
+
 ```css
   :root {
     --base: #800fff;
@@ -118,4 +119,5 @@ My Solution:
     border-radius: var(--border);
   }
 ```
+
 As mentioned yesterday I've started dividing my files up so you'll notice that today, as well.
