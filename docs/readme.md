@@ -15,6 +15,8 @@ Enjoy and follow me on Twitter! [@stpColabr8nLstn](https://twitter.com/stpcolabr
 
 ## [Day One - JavaScript Drum Kit](https://github.com/stpCollabr8nLstn/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 
+View [codepen](https://codepen.io/StpCollabr8nLstn/pen/bgeVRV) (sans sound)
+
 The only major deviation here is that I opted to use `keyup` rather than listening for the end of `transform`.
 
 Original Solution:  
@@ -44,6 +46,8 @@ My Solution:
 ---
 
 ## [Day Two - JS + CSS Clock](https://github.com/stpCollabr8nLstn/JavaScript30/tree/master/02%20-%20JS%20%2B%20CSS%20Clock)
+
+View [codepen](https://codepen.io/StpCollabr8nLstn/pen/xgOwXz)
 
 For today I played with a couple of ideas because some of the lines appear redundant, save for the time unit specified. In the end I couldn't really come up with a solid way to minimize the code much further. Any way I see it, you gotta have three different lines for each one.
 
@@ -75,6 +79,8 @@ Speaking of OCDs... you might also notice that I separated my files. I'm all abo
 ---
 
 ## [Day Three - CSS Variables](https://github.com/stpCollabr8nLstn/JavaScript30/tree/master/03%20-%20CSS%20Variables)
+
+View [codepen](http://codepen.io/StpCollabr8nLstn/pen/qRNOVM)
 
 I have never used CSS variables. Sad but true. So today was a fun one! I didn't get too wacky about finding an alternate solution but I did "enhance" the page a bit. I added a new image of my gorgeous dog (because who wouldn't want to see him?), changed the `base` to purple (it matches my terminal) and added some toggles for border-radius and width.
 
