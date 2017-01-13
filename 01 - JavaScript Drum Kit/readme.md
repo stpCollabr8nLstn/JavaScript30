@@ -1,4 +1,7 @@
-## [Day One - JavaScript Drum Kit](https://codepen.io/StpCollabr8nLstn/pen/bgeVRV)
+## [Day One - JavaScript Drum Kit](https://github.com/stpCollabr8nLstn/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+
+View [codepen](https://codepen.io/StpCollabr8nLstn/pen/bgeVRV) (sans sound)
+
 
 The only major deviation here is that I opted to use `keyup` rather than listening for the end of `transform`.
 
