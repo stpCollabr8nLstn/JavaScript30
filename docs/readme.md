@@ -124,7 +124,7 @@ As mentioned yesterday I've started dividing my files up so you'll notice that t
 
 --- 
 
-### [Day Four - Array Cardio Day 1](https://github.com/stpCollabr8nLstn/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
+# [Day Four - Array Cardio Day 1](https://github.com/stpCollabr8nLstn/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
 
 This is a great way to flex your JavaScript muscles! 
 
@@ -133,7 +133,7 @@ Today I opted to approach the #7 slightly differently:
 
 Original Solution
 
-```
+```javascript
     const alpha = people.sort((lastOne, nextOne) => {
       const [aLast, aFirst] = lastOne.split(', ');
       const [bLast, bFirst] = nextOne.split(', ');
@@ -144,7 +144,7 @@ Original Solution
 
 My Solution
 
-```
+```javascript
     const alphaPple = people.sort((a, b) => {
       const aLast = a.split(', ')[0];
       const bLast = b.split(', ')[0];
