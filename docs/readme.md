@@ -156,7 +156,7 @@ My Solution
 Since we're not using the first name I didn't even bother pulling it out of the split array.
 You could even abstract it further and just do:
 
-```
+```javascript
     const alphaPple = people.sort((a, b) => {
       return a.split(', ')[0] > b.split(', ')[0] ? 1 : -1;
     })
