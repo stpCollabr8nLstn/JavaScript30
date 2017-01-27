@@ -1,3 +1,5 @@
+### [04 - Array Cardio Day 1](https://github.com/stpCollabr8nLstn/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
+
 This is a great way to flex your JavaScript muscles! 
 
 I use these methods pretty regularly and really enjoyed the format of today's tutorial. 
