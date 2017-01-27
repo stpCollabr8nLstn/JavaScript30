@@ -1,4 +1,4 @@
-### [04 - Array Cardio Day 1](https://github.com/stpCollabr8nLstn/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
+### [Day Four - Array Cardio Day 1](https://github.com/stpCollabr8nLstn/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
 
 This is a great way to flex your JavaScript muscles! 
 
