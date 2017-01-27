@@ -131,7 +131,7 @@ This is a great way to flex your JavaScript muscles!
 I use these methods pretty regularly and really enjoyed the format of today's tutorial. 
 Today I opted to approach the #7 slightly differently:
 
-Original Solution
+Original Solution:
 
 ```javascript
     const alpha = people.sort((lastOne, nextOne) => {
@@ -142,7 +142,7 @@ Original Solution
     console.log(alpha);
 ```
 
-My Solution
+My Solution:
 
 ```javascript
     const alphaPple = people.sort((a, b) => {
