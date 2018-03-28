@@ -1,5 +1,7 @@
 ## [Day Two - JS + CSS Clock](https://github.com/stpCollabr8nLstn/JavaScript30/tree/master/02%20-%20JS%20%2B%20CSS%20Clock)
 
+UPDATE: I've adapted a [React + CSS Clock tutorial](https://github.com/stpCollabr8nLstn/react-clock-tutorial)
+
 View [codepen](https://codepen.io/StpCollabr8nLstn/pen/xgOwXz)
 
 For today I played with a couple of ideas because some of the lines appear redundant, save for the time unit specified. In the end I couldn't really come up with a solid way to minimize the code much further. Any way I see it, you gotta have three different lines for each one.
