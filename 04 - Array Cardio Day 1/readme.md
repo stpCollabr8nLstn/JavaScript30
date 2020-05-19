@@ -22,7 +22,7 @@ My Solution:
     const alphaPple = people.sort((a, b) => {
       const aLast = a.split(', ')[0];
       const bLast = b.split(', ')[0];
-      return aLast < bLast ? 1 : -1;
+      return aLast > bLast ? 1 : -1;
     })
     console.log(alphaPple);
 ```
